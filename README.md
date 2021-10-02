@@ -1,3 +1,3 @@
 # SEU_Beamer_Template_Latex
-Southeast University(SEU) beamer template 
-东南大学PPT模板
+This template is heavily based on a Stanford Beamer template found [here](https://github.com/junwuzhang/ARMLab_LaTeX_Beamer_Template).
+
